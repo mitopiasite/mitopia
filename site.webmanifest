@@ -1,0 +1,23 @@
+{
+  "name": "Mitopia",
+  "short_name": "Mitopia",
+  "description": "Full-service marketing studio. Where ideas become outcomes.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDF7EC",
+  "theme_color": "#DD8526",
+  "icons": [
+    {
+      "src": "/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
